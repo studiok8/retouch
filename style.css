@@ -16,3 +16,11 @@ main {
 img {
     width: 45%;
 }
+
+p {
+    line-height: 100%;
+    font-size: 27px;
+    padding-bottom: 20px;
+    font-family: 'Candara',sans-serif;
+    margin-left: 90px;
+}
